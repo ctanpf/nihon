@@ -244,7 +244,7 @@ var KatakanaToJapaneseMap = map[string]string{
 
 	"チャ": "cha",
 	"チュ": "chu",
-	"チェ": "cho",
+	"チョ": "cho",
 
 	"ニャ": "nya",
 	"ニュ": "nyu",
